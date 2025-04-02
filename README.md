@@ -12,7 +12,7 @@
 
 ---
 
-![Defendi's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-carbonera&include_all_commits=true&show_icons=true&number_format=short)
+![Carbonera's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-carbonera&include_all_commits=true&show_icons=true&number_format=short)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-carbonera&langs_count=8&layout=compact)
 
 ---
