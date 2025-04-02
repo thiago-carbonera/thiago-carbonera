@@ -1,4 +1,4 @@
-### Hello, World! 👋, I'm Tiago Defendi 🤓
+### Hello, World! 👋, I'm Thiago Carbonera 😎
 
 - 🎓 Currently undergraduate in Computer Science at UTFPR - Campo Mourão (5/8)
 
