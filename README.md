@@ -1,6 +1,6 @@
 ### Hello, World! 👋, I'm Thiago Carbonera 😎
 
-- 🎓 Currently undergraduate in Computer Science at UTFPR - Campo Mourão (5/8)
+- 🎓 Currently undergraduate in Computer Science at UTFPR - Campo Mourão (7/8)
 
 ---
 
